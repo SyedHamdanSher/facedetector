@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New", Courier, monospace;
+  background: linear-gradient(to right	,#191822, #393276);
+}
+
+button {
+	cursor : pointer;
+}
+
+.center {
+	display: flex;
+	justify-content: center;
+}
